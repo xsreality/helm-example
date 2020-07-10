@@ -1,0 +1,2 @@
+creation_rules:
+  - azure_keyvault: 'https://axualqavault.vault.azure.net/keys/SopsKey/8022955f22c64e83a37d470498202972'
